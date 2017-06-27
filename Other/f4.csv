@@ -1,0 +1,25 @@
+Taxable Purchases (Local) Listing,,,,,,,
+,,,,,,,
+Note: The text displayed in this listing are examples to aid understanding. It should be overridden by the business when it adopts the template for its use.,,,,,,,
+,,,,,,,
+Name of Business:,,ABC Pte Ltd,,,,,
+GST Registration Number:,,200912345A,,,,,
+GST Reporting Period:,,1/4/2010 to 30/6/2010,,,,,
+,,,,,,,
+Invoice Date,Invoice Number,Name of Supplier,Supplier's GST Registration Number,Description of Purchases,Type of Purchase,"Invoice amount excluding GST 
+ (S$)","GST per invoice 
+ (S$)"
+5-Apr-10,12345,123 Services Pte Ltd,199698765Z,Corporate secretarial matters,Non-Trade,"1,000.00",70
+,,,,Apr-10,,"1,000.00",70
+,,,,,,,
+1-May-10,SG10-987,XYZ Singapore Pte Ltd,M200724680,Lease rental of photocopier machine (May 2010),Non-Trade,500,35
+7-May-10,0510-54,Best packaging Pte Ltd,199955220H,Packing materials,Trade,"40,000.00","2,800.00"
+,,,,May-10,,"40,500.00","2,835.00"
+,,,,,,,
+29-Jun-10,JAL210,Merlion Travel Pte Ltd,200587878C,Air tickets,Non-Trade,"1,200.00",-
+29-Jun-10,CN-JAL211,Merlion Travel Pte Ltd,200587878C,Credit note - Service fee waived,Non-Trade,-100,-7
+30-Jun-10,5846982,Hello Pte Ltd,M90001234H,Telephone charges,Non-Trade,200,10
+,,,,Jun-10,,"1,300.00",3
+,,,,,,,
+,,,,Total,,"42,800.00","2,908.00"
+,,,,,,Box 5,Box 7

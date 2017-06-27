@@ -1,0 +1,908 @@
+Account,Name,Description
+331308,NICK YOUR STAY PROMO,Room revenue for nickelodeon merchandise
+361009,UNASSIGNED ROOM REVENUE,GPMS Room Revenue Suspense
+361011,RATE ADJUSTMENT,Rate adjustment - Rooms Business Transient
+361011,TRANSIENT SALES,Room revenue for business related travel
+361011,TRANSIENT SALES,Room revenue for pleasure related travel
+361011,RATE ADJUSTMENT,Rate adjustment - Rooms Business Transient
+361051,PENTHOUSE -LONG TERM,Room revenue for Penthouse Long Term (30+) / (Tier 4)
+361052,STUDIO - LONG TERM,Room revenue for Studio Long Term (30+) / (Tier 4)
+361053,PENTHOUSE TRANSIENT - LONG TERM,Room revenue for Penthouse Long Term (30+) / (Tier 4)
+361054,STUDIO TRANSIENT - LONG TERM,Room revenue for Studio Long Term (30+) / (Tier 4)
+361055,PENTHOUSE - LONG TERM,Room revenue for Penthouse Long Term (30+) / (Tier 4)
+361056,STUDIO - LONG TERM,Room revenue for Studio Long Term (30+) / (Tier 4)
+361061,PENTHOUSE -MID TERM,Room revenue for Penthouse Mid Term (12-29) / (Tier 3)
+361062,STUDIO - MIDTERM,Room revenue for Studio Mid Term (12-29) / (Tier 3)
+361063,PENTHOUSE -MID TERM,Room revenue for Penthouse Mid Term (12-29) / (Tier 3)
+361064,STUDIO - MIDTERM,Room revenue for Studio Mid Term (12-29) / (Tier 3)
+361065,PENTHOUSE -MID TERM,Room revenue for Penthouse Mid Term (12-29) / (Tier 3)
+361066,STUDIO - MIDTERM,Room revenue for Studio Mid Term (12-29) / (Tier 3)
+361071,PENTHOUSE MID-SHORT TERM 5-6,Room revenue for Penthouse Mid/Short Term (5-11) / (Tier 2)
+361072,STUDIO MID-SHORT TERM 5-6,Room revenue for Studio Mid/Short Term (5-11) / (Tier 2)
+361073,PENTHOUSE MID-SHORT TERM 5-6,Room revenue for Penthouse Mid/Short Term (5-11) / (Tier 2)
+361074,STUDIO MID-SHORT TERM 5-6,Room revenue for Studio Mid/Short Term (5-11) / (Tier 2)
+361075,PENTHOUSE MID-SHORT TERM 5-6,Room revenue for Penthouse Mid/Short Term (5-11) / (Tier 2)
+361076,STUDIO MID-SHORT TERM 5-6,Room revenue for Studio Mid/Short Term (5-11) / (Tier 2)
+361081,PENTHOUSE -SHORT TERM,Room revenue for Penthouse Short Term (1-4) / (Tier 1)
+361082,STUDIO - SHORT TERM,Room revenue for Studio Short Term (1-4) / (Tier 1)
+361083,PENTHOUSE -SHORT TERM,Room revenue for Penthouse Short Term (1-4) / (Tier 1)
+361084,STUDIO - SHORT TERM,Room revenue for Studio Short Term (1-4) / (Tier 1)
+361085,PENTHOUSE -SHORT TERM,Room revenue for Penthouse Short Term (1-4) / (Tier 1)
+361086,STUDIO - SHORT TERM,Room revenue for Studio Short Term (1-4) / (Tier 1)
+361203,PART DAY REV,Room revenue for Part Day Room Charges
+361203,PART DAY REV,Room rebate for Part Day Room Charges
+361204,GUARANTEED NO SHOW,Room revenue for Guaranteed No Show guests
+361318,ROOM CHARGE-LEASE/CONTR,Room revenue for contract business.
+361318,SPEC CORP SUN-THUR,"Room revenue for special promotions (holiday rate, etc.)"
+361334,ROOM CHARGE-GROUPS,Room revenue for Group related room charges.
+361522,COMP NIGHT VOUCHER REVPAR ADJ,Comp Night Voucher Revpar Adjustments (Salt Lake City entry only)
+361902,MR REIMBURSEMENTS,Reimbursements for Marriott Rewards Activity (CORPORATE USE ONLY)
+361903,PACKAGE REBATES,"Room rebate for Promotional Discounts ($10 Off, etc.)"
+361904,GUARANTEED NO SHOW REBATE,Room rebate for Guaranteed No Show
+361905,PROMOTIONAL REBATE,Room rebate for Marriott Rewards Certificate
+361908,MR ANYTIME REIMBURSEMENT,Reimbursements for Marriott Rewards Anytime Activity (CORPORATE USE ONLY)
+361909,MR OCCUPANCY PREMIUM,Marriott Rewards incremental reimbursement amount received by the hotel over the blended rate on nights when occupancy thresholds are met.
+361945,GROUP REBATE,Room rebate for Group Sales
+361951,TRANSIENT REBATE,Room rebate for Business Transient
+361951,TRANSIENT REBATE,Room rebate for Escape Package
+361951,TRANSIENT REBATE,Room rebate for Penthouse Long Term (30+) / (Tier 4)
+361951,TRANSIENT REBATE,Room rebate for Pleasure Transient
+361951,TRANSIENT REBATE,"Room rebate for special promotions (holiday rate, etc.)"
+361952,STUDIO LONG TERM ADJ,Room rebate for Studio Long Term (30+) / (Tier 4)
+361953,PENTHOUSE LONG TERM ADJ,Room rebate for Penthouse Long Term (30+) / (Tier 4)
+361954,STUDIO LONG TERM ADJ,Room rebate for Studio Long Term (30+) / (Tier 4)
+361955,PENTHOUSE LONG TERM ADJ,Room rebate for Penthouse Long Term (30+) / (Tier 4)
+361956,STUDIO LONG TERM ADJ,Room rebate for Studio Long Term (30+) / (Tier 4)
+361961,PENTHOUSE MID TERM ADJ,Room rebate for Penthouse Mid Term (12-29) / (Tier 3)
+361962,STUDIO MID TERM ADJ,Room rebate for Studio Mid Term (12-29) / (Tier 3)
+361963,PENTHOUSE MID TERM ADJ,Room rebate for Penthouse Mid Term (12-29) / (Tier 3)
+361964,STUDIO MID TERM ADJ,Room rebate for Studio Mid Term (12-29) / (Tier 3)
+361965,PENTHOUSE MID TERM ADJ,Room rebate for Penthouse Mid Term (12-29) / (Tier 3)
+361966,STUDIO MID TERM ADJ,Room rebate for Studio Mid Term (12-29) / (Tier 3)
+361971,PENTHOUSE MID TERM ADJ,Room rebate for Penthouse Mid/Short Term (5-11) / (Tier 2)
+361972,STUDIO MID TERM ADJ,Room rebate for Studio Mid/Short Term (5-11) / (Tier 2)
+361973,PENTHOUSE MID TERM ADJ,Room rebate for Penthouse Mid/Short Term (5-11) / (Tier 2)
+361974,STUDIO MID TERM ADJ,Room rebate for Studio Mid/Short Term (5-11) / (Tier 2)
+361975,PENTHOUSE MID TERM ADJ,Room rebate for Penthouse Mid/Short Term (5-11) / (Tier 2)
+361976,STUDIO MID TERM ADJ,Room rebate for Studio Mid/Short Term (5-11) / (Tier 2)
+361981,PENTHOUSE SHORT TERM ADJ,Room rebate for Penthouse Short Term (1-4) / (Tier 1)
+361981,STUDIO SHORT TERM ADJ,Room rebate for Studio Short Term (1-4) / (Tier 1)
+361982,STUDIO SHORT TERM ADJ,Room rebate for Studio Short Term (1-4) / (Tier 1)
+361983,PENTHOUSE SHORT TERM ADJ,Room rebate for Penthouse Short Term (1-4) / (Tier 1)
+361984,STUDIO SHORT TERM ADJ,Room rebate for Studio Short Term (1-4) / (Tier 1)
+361985,PENTHOUSE SHORT TERM ADJ,Room rebate for Penthouse Short Term (1-4) / (Tier 1)
+361986,STUDIO SHORT TERM ADJ,Room rebate for Studio Short Term (1-4) / (Tier 1)
+361998,CONTRACT SALES,Room rebate for corporate contract sales
+510001,WAGE DEPT 01,Wage dollars for Supervisor-Front Office
+510002,WAGE DEPT 02,Wage dollars for Supervisor / Team Lead-Housekeeping or Agent-At Your Service/Team Lead Hskp
+510002,WAGE DEPT 02,Wage dollars for Guest Service Representative
+510002,WAGE DEPT 02,Wage dollars for College Intern - FO
+510003,WAGE DEPT 03,"Wage dollars for Housekeeper, Housekeeper-Pay Per Room, or Housekeeper-Self Inspector"
+510003,WAGE DEPT 03,Wage dollars for College Intern - HK PPR
+510004,WAGE DEPT 04,Wage dollars for Housekeeping Aide or Housekeeping Aide PM
+510005,WAGE DEPT 05,Wage dollars for Supervisor-Laundry (Guest Linen)
+510005,WAGE DEPT 05,Wage dollars for Attendant-Laundry (Guest Linen)
+510007,WAGE DEPT 07,Wage dollars for Attendant-Gatehouse
+510009,WAGE DEPT 09,Wage dollars for Supervisor-Housekeeping
+510010,WAGE DEPT 10,Wage dollars for Housekeeper or Housekeeper-Pay Per Room
+510010,WAGE DEPT 10,Wage dollars for College Intern - HK
+510012,WAGE DEPT 12,Wage dollars for Attendant-Food & Beverage
+510012,WAGE DEPT 12,Wage dollars for Attendant-Breakfast
+510013,WAGE DEPT 13,Wage dollars for Inspector-Rooms
+510017,WAGE DEPT 17,Wage dollars for Supervisor-Suite Care
+510018,WAGE DEPT 18,Wage dollars for Housekeeper-General Clean/PM
+510020,WAGE DEPT 20,Wage dollars for Supervisor-Guest Care
+510021,WAGE DEPT 21,Wage dollars for Supervisor-Front Office or Supervisor-Operations (Front Office)
+510022,WAGE DEPT 22,Wage dollars for Clerk-Reservations
+510023,WAGE DEPT 23,Wage dollars for Attendant-Bellstand
+510028,WAGE DEPT 28,Wage dollars for Guest Service Rep-PM
+510028,WAGE DEPT 28,Wage dollars for Night Auditor
+510029,WAGE DEPT 29,Wage dollars for Guest Service Representative - FO
+510029,WAGE DEPT 29,Wage dollars for College Intern - FO
+510032,WAGE DEPT 32,Wage dollars for HOUSEKEEPER - CONTRACT LABOR (Labor invoices coded here)
+510034,WAGE DEPT 34,Wage dollars for LAUNDRY ATTENDANT - CONTRACT LABOR (Labor invoices coded here)
+510035,WAGE DEPT 35,Wage dollars for Night Auditor
+510036,WAGE DEPT 36,Wage dollars for OTHER HOURLY - CONTRACT LABOR
+511001,OVERTIME PREMIUM,Overtime dollars for rooms department employees
+520201,BUYOUT LABOR,Clearing account for Buy-Out Labor (BOL)
+520202,LABOR SERVICE FEE,Gross Buy-Out Labor wages
+530001,PETTY CASH NET PAY,Clearing account for Pay Adjustment Vouchers (PAV)
+540201,EXECUTIVE BONUS,Quarterly bonus dollars for hourly associates
+540204,HOUSEKEEPING INCENTIVE (BONUS),Housekeeping incentive payment for the STEPS program
+560302,MISC. EMP BENEFITS,Miscellaneous benefits for rooms department employees (C-7 Use Only)
+560504,HOLIDAY PAY MANAGEMENT,Wage dollars for Management Holiday Pay
+580108,PAYROLL MISC CASH AWARDS,Miscellaneous payroll employee awards
+580114,PAYROLL UNIFORMS,Miscellaneous payroll deduction for uniforms & safety shoes
+582061,Workman's Comp Employee Premium,Workman's Comp Employee Premium (CORPORATE USE ONLY)
+582071,Workman's Comp Deductible Current Yr,Workman's Comp Deductible Current Yr (CORPORATE USE ONLY)
+582081,EPL Deductibles - Current Year,EPL Deductibles - Current Year (CORPORATE USE ONLY)
+600508,REFERRAL COMMISSION,Cost of incentive discounts for gift certificates redeemed via MIFS system. Dollar Denominated Certificates. (SALT LAKE CITY USE ONLY)
+601103,WELCOME BASKET,Cost of supplies included in Welcome Gift Baskets upon check-in.
+601107,WALKED GUEST EXPENSE,Cost of walking a guest and cost of penalty associated with unavailable room type for MR member
+601108,COMP CONTINENTAL BREAKFAST,Cost of complimentary breakfast supplies.
+601109,COMPLIMENTARY EVENING FOOD,Cost of complimentary evening food supplies.
+601110,COMPLIMENTARY EVENING BEVERAGE,Cost of complimentary evening beverage supplies.
+602207,STEPS PROGRAM COMMISSIONS/SYSTEM (SPECIAL PROJECTS),Cost of STEPS program commssions and system related costs (Special Projects)
+602301,MR MEMBER BENEFITS,Cost of Platinum Marquis gift program (MR 1st night gift water / snack / placemat)
+602321,MR MEMBER PENALTY,Cost of penalty associated with unavailable room type for Platinum MR member
+602321,MR MEMBER PENALTY,Cost of walking an Elite MR member
+602321,MR MEMBER PENALTY,Cost of the penalty for not delivering the Platinum Marquis gift
+602321,MR MEMBER PENALTY,Rebate for cost of CYC non walk guarantee.
+602406,OUTSOURCED LAUNDRY,Cost of laundry service provided by an outside company (Edison Laundry)
+605111,INCENTIVE DISCOUNT,Cost of incentive discounts for gift certificates redeemed
+608102,OMAHA VARIABLE EXP,Cost of reservations for hotel (CORPORATE USE ONLY)
+608103,WORLD WIDE RESERVATIONS,Cost of percentage of reservation costs (CORPORATE USE ONLY)
+608104,ARSO RESERVATIONS,Cost of Area Reservations for hotel (CORPORATE USE ONLY)
+608107,ARSO PHONE CHARGES,Cost of Area Reservations phone charges for hotel (CORPORATE USE ONLY)
+608108,WORLD WIDE RESERVATIONS,Cost of 1-800 reservations (CORPORATE USE ONLY)
+608109,CLUSTER RESERVATIONS,Cost of Cluster expenses (CORPORATE USE ONLY)
+608201,TRAVEL AGENT EXPENSES,Cost of commissions paid to travel agents
+608202,TRAVEL AGENCY SERVICES,Cost of CTAC service charges (CORPORATE USE ONLY)
+608203,GROUP TRAVEL AGENT COMM,Cost of group travel agent commission
+610105,LINEN,"Cost of linen, non-inventoried purchases and freight"
+610106,CLEANING SUPPLIES,"Cost of cleaning supplies (brushes, detergents, floor polish, vacuum cleaners)"
+610107,LAUNDRY SUPPLIES,Cost of chemicals necessary to operate laundry (Ecolab)
+610108,MISCELLANEOUS OPERATING SUPPLIES,Cost of supplies for outside courts and games.
+610122,COMP F & B SUPPLIES,Cost of supplies used for complimentary F & B service.
+610125,ROOM UPKEEP SUPPLIES,"Cost of guest room supplies (guestroom lamps, pictures, wastebaskets, hangers, hairdryers, glassware and silverware in guestroom at extended stay properties)"
+610126,ROOM APPLIANCES,Cost of small appliances and cookware in guestroom at extended stay properties
+610201,GUEST SUPPLIES,"Cost of common room supplies to include irons, ironing boards, coffee maker, clocks, tissues, paper towels, notepads, toilet paper, and complementary coffee."
+610201,GUEST SUPPLIES,Cost of market newspapers sold for guest convenience.
+610201,GUEST SUPPLIES,"Cost of common room supplies to include irons, ironing boards, coffee maker, clocks, tissues, paper towels, notepads, toilet paper, bar soap and shampoo, dishwasher soap, jet dry, and complementary coffee."
+610201,GUEST SUPPLIES,Cost of Coffee for Guest Rooms and Water in Exercise Room
+610201,GUEST SUPPLIES,"Cost of first nighter kits given to guest upon check-in at extended stay properties (salt & pepper, popcorn, coffee, candy, filters, first Fire Logs)"
+610414,USA TODAY - GUEST SUPPLY,"Cost of USA Today, Wall Street Journal and Local Newspapers"
+610414,USA TODAY - GUEST SUPPLY,Cost of magazines and newspapers for gatehouse and guest rooms (USA Today)
+610415,IN ROOM ENTERTAINMENT - CABLE FTG,Cost of FTG Cable in Lobby and Guest Rooms
+610415,IN ROOM ENTERTAINMENT - CABLE FTG,Cost of Free To Guest in-room entertainment (Cable or OCV / Lodgenet programming)
+615002,GUEST DRY CLEANING EXP,Cost of dry cleaning bedspreads and pillows
+616104,STEPS START UP (PROF FEE MISC),Cost of PDQ STEPS program Implementation/start up
+616211,OUTSIDE LABOR SERVICES,"Cost of non-routine (outside vendor) service for carpet, window, and drapery cleaning. (Cintas floor mat service, Fibercare, MarbleLife, etc.)"
+652403,RECRUITING - OTHER,Cost of recruitment expenses (CORPORATE USE ONLY)
+655601,TRAVEL OTHER,Miscellaneous travel related expenses
+657021,VENDOR REBATES,"Vendor rebates, such as Avendra annual rebates (CORPORATE USE ONLY)"
+657340,MYHR SERVICES,Cost of MyHr Services (CORPORATE USE ONLY)
+660106,REVENUE MANAGEMENT,Cost of revenue management (CORPORATE USE ONLY)
+664901,IN-HOUSE LAUNDRY,Cost of in-house laundry expenses.
+690001,GENERAL EXPENSE,Miscellaneous incidental expenses
+691005,PERMITS & LICENSES,Cost of Permit / License fees to Operate
+988001,WAGE DEPT 01,Wage hours for Supervisor-Front Office
+988002,WAGE DEPT 02,Wage hours for Supervisor-Housekeeping or Agent-At Your Service
+988002,WAGE DEPT 02,Wage hours for Guest Service Representative
+988002,WAGE DEPT 02,Wage hours for College Intern - FO
+988003,WAGE DEPT 03,"Wage hours for Housekeeper, Housekeeper-Pay Per Room, Team Leader (Housekeeping), or Housekeeper-Self Inspector"
+988003,WAGE DEPT 03,Wage hours for College Intern - HK
+988004,WAGE DEPT 04,Wage hours for Housekeeping Aide or Housekeeping Aide PM
+988005,WAGE DEPT 05,Wage hours for Attendant-Laundry (Guest Linen)
+988005,WAGE DEPT 05,Wage hours for Supervisor-Laundry (Guest Linen)
+988007,WAGE DEPT 07,Wage hours for Attendant-Gatehouse
+988009,WAGE DEPT 09,Wage hours for Supervisor-Housekeeping
+988010,WAGE DEPT 10,Wage hours for Housekeeper or Housekeeper-Pay Per Room
+988010,WAGE DEPT 10,Wage hours for College Intern - HK
+988012,WAGE DEPT 12,Wage hours for Attendant-Food & Beverage
+988012,WAGE DEPT 12,Wage hours for Attendant-Breakfast
+988013,WAGE DEPT 13,Wage hours for Inspector-Rooms
+988017,WAGE DEPT 17,Wage hours for Supervisor-Suite Care
+988018,WAGE DEPT 18,Wage hours for Housekeeper-General Clean/PM
+988020,WAGE DEPT 20,Wage hours for Supervisor-Guest Care
+988021,WAGE DEPT 21,Wage hours for Supervisor-Front Office or Supervisor-Operations (Job Function is Front Office)
+988022,WAGE DEPT 22,Wage hours for Clerk-Reservations
+988023,WAGE DEPT 23,Wage hours for Attendant-Bellstand
+988028,WAGE DEPT 28,Wage hours for Guest Service Rep-PM
+988029,WAGE DEPT 29,Wage hours for Guest Service Representative
+988029,WAGE DEPT 29,Wage hours for College Intern - FO
+988032,WAGE DEPT 32,Wage hours for HOUSEKEEPER - CONTRACT LABOR (Labor invoices coded here)
+988034,WAGE DEPT 34,Wage hours for LAUNDRY ATTENDANT - CONTRACT LABOR (Labor invoices coded here)
+988035,WAGE DEPT 35,Wage hours for Night Auditor
+988036,WAGE DEPT 36,Wage hours for OTHER HOURLY - CONTRACT LABOR
+988202,BUYOUT LABOR M-H,Gross Buy-Out Labor hours
+999997,CONTROL MANHRS,Wage hours offset (hours for outside service invoices coded here)
+351101,COURTYARD CLUB,Rebate for cost of CYC free fax and phone items.
+351101,LOCAL TELEPHONE SALES,Local calls rebate from guest telephones
+351101,LOCAL TELEPHONE SALES,Revenue for local calls from guest telephones for State Farm
+351101,LOCAL TELEPHONE SALES,Revenue for local calls from guest telephones
+351201,LONG DISTANCE TELEPHONE SALES,Disputed phone rebate
+351201,LONG DISTANCE TELEPHONE SALES,Revenue for long distance calls from guest telephones
+351201,LONG DISTANCE TELEPHONE SALES,Long distance calls rebate from guest telephones
+351401,GUEST RM INTERNET REV,Revenue for expanded-bandwidth HSIA
+351401,GUEST RM INTERNET REV,Expanded-bandwidth HSIA rebate
+352011,FACSIMILE INCOME,Revenue for business center operations
+380211,PAY PHONE COMMISSION,Commission for use of public phones and AT&T 0+
+311101,RESI-DELI (NON-TAXABLE),Revenue for Non-Taxable Resi-Deli sales (FOR 57253 USE ONLY)
+311101,RESI-DELI,Revenue for Resi-Deli sales (FOR 57253 USE ONLY)
+314115,F&B PACKAGE REVENUE,Revenue allocation for breakfast packages (FOSSE entry)
+314116,F&B PACKAGE EXPENSE,Rebate for breakfast expense from packages (FOSSE entry)
+330001,CATALOG SALES INCOME,Commission from sales on shopmarriott.com
+331002,MERCHANDISE NON-TAXABLE,Revenue for merchandise non-taxable
+331010,PAPER GOODS,Revenue for gift shop - newspaper sales.
+331020,TOBACCO,Revenue for gift shop - cigarette sales.
+331050,GIFTS,Revenue for gift shop sales
+331050,GIFTS,Gift shop rebate
+331051,SOUVENIR,Revenue for gift shop - souvenir sales
+331060,SALES - SUNDRY,Revenue for sundry items sold at Front Desk (non-Market items)
+331201,GROCERY,Revenue for groceries
+331201,GROCERY,Groceries rebate
+350091,GUEST PARKING TRN,Revenue for garage parking (outside operated)
+350091,GUEST PARKING TRN,Revenue for daily parking (outside operated)
+350091,GUEST PARKING TRN,Revenue for valet parking (outside operated)
+350091,GUEST PARKING TRN,Revenue for guest daily parking (hotel operated garage)
+350091,GUEST PARKING TRN,Parking rebate
+350103,FIRE LOG INCOME,Revenue for fire logs
+350103,FIRE LOG INCOME,Fire logs rebate
+351401,GUEST RM INTERNET REV,Revenue for internet access in public areas or printing charges from in-room internet access. (Part of iBahn invoice coded here.)
+351401,GUEST RM INTERNET REV,Internet access rebate
+353000,RENTAL REVENUE,Revenue for miscellaneous rentals
+355020,AUDIO VISUAL,Revenue for RENTAL of audio visual sales (outside commission) Invoices coded to this account
+361905,PROMOTIONAL REBATE,Rebate for Bonus Bucks promotion
+380202,VENDING COMMISSIONS,Revenue for game room machines
+380202,VENDING COMMISSIONS,"Commission from vending machines (candy, newspaper, etc.)"
+380202,VENDING COMMISSIONS,"Income from vending machines (candy, newspaper, etc.)"
+380202,VENDING COMMISSIONS,"Rebates from vending machines (candy, newspaper, etc.)"
+380212,LAUNDRY/DRY-CLEANING COMM,Revenue for valet/laundry vendor (guest valet invoice coded here)
+380214,TRANSPORT COMM,Revenue for transportation (escape packages)
+380215,CAR RENTAL COMMISSION,Revenue for commission on car rental services (CORPORATE USE ONLY)
+380233,OUTSIDE RESTAURANT COMMISSION,Revenue for outside restaurant sales commission
+380289,MUSIC REVENUE,Revenue for in room music
+380289,IN HOUSE MOVIE REVENUE,Revenue for in-room movies (On Command Video / Lodgenet / Spectradyne invoices coded here)
+380289,VIDEO GAME REVENUE,Revenue for Video games
+380289,IN HOUSE MOVIE REVENUE,On Command Video rebate
+380289,MUSIC REVENUE,Rebate for in room music
+380289,VIDEO GAME REVENUE,Rebate for Video games
+390001,MISCELLANEOUS INCOME,Revenue for miscellaneous income - baggage handling
+390001,MISCELLANEOUS INCOME,Revenue for miscellaneous income - rollaway bed rental
+390001,MISCELLANEOUS INCOME,Revenue for miscellaneous income - Room Safe Rebate
+390001,MISCELLANEOUS INCOME,Revenue for miscellaneous income - cigarettes
+390001,COURTYARD CLUB,Rebate for cost of free fax items
+390001,COURTYARD CLUB,Cost of CYC free items
+390001,MISCELLANEOUS INCOME,Revenue for miscellaneous income - guest amenity
+390001,MISC REVENUE - GOLF PASSES,Revenue for miscellaneous income - golf passes
+390001,MISCELLANEOUS INCOME,Revenue for miscellaneous income - health club
+390001,MISCELLANEOUS INCOME,Revenue for miscellaneous income - health spa voucher
+390001,SMOKE FREE ENVIRONMENT CHARGE,"Revenue for Smoke Free Environment (carpet cleaning, drapes, upholstered furniture, wipe down surfaces, treat air)."
+390001,MISCELLANEOUS INCOME,Revenue for miscellaneous income - late payment fees
+390001,MISCELLANEOUS INCOME,Revenue for miscellaneous income - office rental
+390001,MISCELLANEOUS INCOME,Revenue for miscellaneous income - sundry items
+390001,MISC REVENUE - SKI PASSES,Revenue for miscellaneous income - ski passes
+390001,MISCELLANEOUS INCOME,Slippage Revenue
+390001,SAFE INCOME,Revenue for miscellaneous income - room safe
+390001,MISCELLANEOUS INCOME,Revenue for miscellaneous income - ticket sales
+390001,MISC REVENUE - TICKETS,Revenue for miscellaneous income - tickets
+390001,MISC REVENUE - TRANSPORTATION,Revenue for miscellaneous income - transportation (Car Rental Expense)
+390001,MISCELLANEOUS INCOME,Revenue for miscellaneous income - washer/dryer income
+390001,SMOKE FREE ENVIRONMENT REBATE,Smoke Free Environment Rebate
+390002,MISCELLANEOUS INCOME,Cancellation Fee Revenue
+390014,SALES TAX DISCOUNT,Credit for government for miscellaneous tax reasons (CORPORATE USE ONLY)
+390145,UTILITY CHARGE,Revenue for energy charge
+390145,UTILITY CHARGE,Energy charge rebate
+390202,PET CLEANING FEE,Nightly fee and non-refundable deposits for pets (Taxable)
+390202,PET CLEANING FEE,Nightly fee and non-refundable deposits for pets (Non-Taxable)
+490001,MISCELLANEOUS COST,Cost of guest grocery check lists
+490001,MISCELLANEOUS COST,"Cost of vending merchandise (hotel owned machines), guest grocery check lists, and sundries sold at Front Desk (non-Market related)"
+490001,MISCELLANEOUS COST,Cost of fire logs sold to guests (after initial fire log supplied by hotel).
+490001,MISCELLANEOUS COST,Cost of vending merchandise (hotel owned machines)
+490202,PET CLEANING COST,Cost of cleaning after a pet has occupied a suite
+690001,GENERAL EXPENSE,Cost of Package Third Party Expense (Exceeding 10%)
+350091,GUEST PARKING TRN,Revenue for guest garage parking (hotel operated garage)
+350091,GUEST PARKING TRN,Revenue for guest garage parking (hotel operated garage)
+350091,GUEST PARKING TRN,Parking rebate (hotel operated garage)
+510016,WAGE DEPT 16,Wage dollars for Attendant-Parking
+510016,WAGE DEPT 16,Wage dollars for Attendant-Bellstand/Valet
+511001,OVERTIME PREMIUM,Overtime dollars
+520201,BUYOUT LABOR,Clearing account for Buy-Out Labor (BOL)
+520202,LABOR SERVICE FEE,Gross Buy-Out Labor wages
+530001,PETTY CASH NET PAY,Clearing account for Pay Adjustment Vouchers (PAV)
+560302,MISC. EMP BENEFITS,Miscellaneous benefits for parking department employees (C-7 Use Only)
+580108,PAYROLL MISC CASH AWARDS,Miscellaneous payroll employee awards
+652403,RECRUITING - OTHER,Cost of recruitment expenses (CORPORATE USE ONLY)
+691008,PARKING EXPENSE,Cost of renting parking spaces including off property spaces
+988016,WAGE DEPT 16,Wage hours for Attendant-Parking
+988016,WAGE DEPT 16,Wage hours for Attendant-Bellstand/Valet
+988202,BUYOUT LABOR M-H,Gross Buy-Out Labor hours (corporate use only)
+999997,CONTROL MANHRS,Wage hours offset (hours for outside service invoices coded here)
+690001,GENERAL EXPENSE,General expenses for hotel operation of parking garage
+300602,AARP DISCOUNT,Restaurant AARP Discount (Micros entry)
+300602,OPEN DISCOUNT,Cost of free breakfast promotion built into room rate
+300611,ASSOCIATE DISCOUNT,Cost of food purchase - employee meals
+311101,CONCEPT SALES,Revenue from Bistro Fresh Food sold in Market
+311101,CONCEPT SALES,Revenue from Concept Sales
+311120,COFFEE CONCEPTS SLS,Revenue from Starbucks Sales
+314001,FOOD SALES,Revenue for bottled water
+314002,MARKET FRESH FOOD,Revenue for Market fresh food
+314002,MARKET FRESH FOOD,Market fresh food rebate
+314003,MARKET PACKAGED FOOD,Revenue for Market packaged food
+314003,MARKET FOOD & BEVERAGE,Revenue for Pantry beverage (non-alcoholic)
+314003,MARKET PACKAGED FOOD,Market packaged food rebate
+314003,MARKET FOOD & BEVERAGE,Pantry beverage rebate (non-alcoholic)
+314004,MARKET FROZEN FOOD,Revenue for Market frozen food
+314004,MARKET FROZEN FOOD,Market frozen food rebate
+314011,RESTAURANT BREAKFAST,Revenue for breakfast sales (FOSSE Entry)
+314011,RESTAURANT MISCELLANEOUS,Revenue for CMN Breakfast Campaign
+314011,COURTYARD CLUB,Cost and rebate of CYC free dessert items
+314011,RESTAURANT BREAKFAST,Breakfast sales rebate - restaurant food (FOSSE entry)
+314011,RESTAURANT BREAKFAST,Revenue for breakfast sales (Micros entry)
+314012,RESTAURANT LUNCH,Revenue for lunch sales (FOSSE entry)
+314012,RESTAURANT LUNCH,Revenue for lunch sales (Micros entry)
+314012,RESTAURANT LUNCH,Revenue for lunch sales - specials (Micros entry)
+314013,RESTAURANT DINNER,Revenue for dinner sales (FOSSE entry)
+314013,RESTAURANT DINNER,Revenue for dinner sales (Micros entry)
+314013,RESTAURANT DINNER,Revenue for dinner sales - bar beverage (FOSSE entry)
+314014,LATE SNACK,Revenue for room service sales - catering service (FOSSE entry)
+314017,BANQUET COFFEE BREAK,Revenue for banquet food
+314027,DINNER DELIVERY,Revenue for dinner delivery sales (Micros entry)
+314041,BANQUET BREAKFAST,Revenue for breakfast sales - banquets
+314042,BANQUET LUNCH,Revenue for lunch sales - banquet lunch
+314043,BANQUET DINNER,Revenue for dinner sales - banquet dinner
+314116,CUSTOMER DISCOUNT,Cost of free breakfast promotion built into room rate
+324017,BEER,Revenue for beer sales - (Micros entry)
+324018,WINE,Revenue for wine sales - (Micros entry)
+324019,LIQUOR,Revenue for liquor sales - (Micros entry)
+324027,MARKET BEER,Revenue for Market beer
+324027,MARKET BEER,Market beer rebate
+324028,MARKET WINE,Revenue for Market wine
+324028,MARKET WINE,Market wine rebate
+324029,MARKET LIQUOR,Revenue for Market liquor
+324029,MARKET LIQUOR,Market liquor rebate
+324039,HONOR BAR BEVERAGE,Revenue from honor bar beverage sales
+324049,BANQUET BEVERAGE,Revenue for beverage sales - banquets
+331001,MERCHANDISE,Revenue for merchandise - grocery (57136 & 57139 only)
+331060,MARKET SUNDRIES,Revenue for Market sundries
+331060,MARKET SUNDRIES,Market sundries rebate
+354001,BANQUET SERVICE CHARGE,Revenue for banquet service charge
+354007,BANQUET SERVICE CHARGE OFFSET,Banquet service charges paid out to associates
+355020,AUDIO VISUAL,Revenue for audio visual - flip chart
+355020,AUDIO VISUAL,Revenue for audio visual - hotel OWNED equipment
+355020,AUDIO VISUAL,Revenue for audio visual - overhead
+360001,BANQUET MEETING ROOMS,Revenue for rental of meeting room A
+360001,BANQUET MEETING ROOMS,Revenue for rental of meeting room B
+360001,BANQUET MEETING ROOMS,Revenue for rental of meeting room C
+360001,BANQUET MEETING ROOMS,Revenue for rental of meeting room D
+390001,OUTSIDE CATERING REVENUE,Revenue for catering in meeting rooms. Food brought in/delivered (prepared off property)
+390001,OUTSIDE CATERING REVENUE,Revenue for miscellaneous income - membership income
+390001,MISCELLANEOUS INCOME,Revenue for meeting room linen use
+390001,MISCELLANEOUS INCOME,Revenue from prepared food purchased for catering purposes
+390901,NON-TEFRA SALES,Gross receipts that cannot be claimed by any one server
+390902,NON-TEFRA OFFSET,Offset for gross receipts that cannot be claimed by any one server
+411120,COFFEE CONCEPTS SLS,"Cost to prepare Starbucks product (coffee, syrup, tea, creamice and sauces)"
+414001,FOOD COST,Cost of food purchase - CYC dessert coupon
+414001,FOOD COST,Cost of food purchase - breakfast coupon cost
+414001,FOOD COST,Cost of food purchase - food purchase
+414001,FOOD COST,"Cost of Food Purchases for Bistro, Banquets and in room Bottled Water"
+414001,FOOD COST,Cost of Bottled Water
+414046,MARKET FOOD COST,Cost of food and Non Alcoholic for resale at CFRST Markets
+414047,VENDOR FOOD REBATES,"Vendor food rebates, such as Avendra annual rebates (CORPORATE USE ONLY)"
+424017,BEER COST,Cost of Beer Purchases for Bistro
+424017,BEER COST,Cost of beer purchases (For states requiring liquor break-out).
+424018,WINE COST,Cost of Wine Purchases for Bistro
+424018,WINE COST,Cost of wine purchases (For states requiring liquor break-out)
+424019,LIQUOR COST,"Cost of wine, beer, liquor purchases - beverage inventory expense"
+424019,LIQUOR COST,"Cost of wine, beer, liquor purchases - liquor & beverage cost"
+424019,LIQUOR COST,Cost of Liquor Purchases for Bistro
+424029,MARKET BEVERAGE COST,Cost of alcoholic beverages for resale at Markets
+431060,MARKET OTHER COST,Cost of other Market purchases (sundry items)
+455020,AUDIO VISUAL COST OF SALES,Cost of Audio Visual equipment for mark-up and charge to the guest
+490001,OUTSIDE CATERING COSTS,Invoices from prepared food purchased for catering purposes. Cost for Outside Catering for food brought in / delivered to the Meeting room for group events
+510009,WAGE DEPT 09,Wage dollars for Attendant-Cafeteria
+510031,WAGE DEPT 31,Wage dollars for Attendant-Gourmet Coffee
+510031,WAGE DEPT 31,Wage dollars for Gourmet Coffee Attendant
+510034,WAGE DEPT 34,Wage dollars for Purchaser or Receiver
+510036,WAGE DEPT 36,Wage dollars for OTHER HOURLY - CONTRACT LABOR
+510040,WAGE DEPT 40,Wage dollars for Supervisor - Restaurant or Team Lead - Restaurant
+510040,WAGE DEPT 40,Wage dollars for Supervisor-Food & Beverage
+510041,WAGE DEPT 41,Wage dollars for Host / Hostess
+510043,WAGE DEPT 43,Wage dollars for Server
+510043,WAGE DEPT 43,Wage dollars for Lead Server
+510043,WAGE DEPT 43,"Wage dollars for Trainee - Server, Server - PM, or College Intern - Restaurant"
+510044,WAGE DEPT 44,Wage dollars for Attendant - Dining Room / Utility
+510044,WAGE DEPT 44,Wage dollars for Attendant - Bar
+510046,WAGE DEPT 46,Wage dollars for Server - Lounge
+510047,WAGE DEPT 47,Wage dollars for Cook I
+510047,WAGE DEPT 47,"Wage dollars for Supervisor - Kitchen, Cook - Lead, Cook II, or Cook - Prep"
+510049,WAGE DEPT 49,Wage dollars for Dishwasher
+510049,WAGE DEPT 49,Wage dollars for Dishwasher/Utility
+510050,WAGE DEPT 50,Wage dollars for Supervisor Bistro
+510053,WAGE DEPT 53,Wage dollars for Bistro Server Plus AM
+510054,WAGE DEPT 54,Wage dollars for Bistro Server Plus PM
+510056,WAGE DEPT 56,Wage dollars for Bartender
+510056,WAGE DEPT 56,Wage dollars for Bartender - Lead
+510072,WAGE DEPT 72,Wage dollars for Aide-Banquets or Attendant-Operations
+510073,WAGE DEPT 73,Wage dollars for Captain-Banquet
+510074,WAGE DEPT 74,Wage dollars for Server-Banquets
+510074,WAGE DEPT 74,Wage dollars for Server-Banquets-Lead
+510083,WAGE DEPT 83,Wage dollars for Server-Room Service
+510503,SERVICE CHARGE DISTRIBUTION,"Distribution of Manditory, Non-Discretionary Service Charges"
+511001,OVERTIME PREMIUM,Overtime dollars for restaurant department employees
+520201,BUYOUT LABOR,Clearing account for Buy-Out Labor (BOL)
+520202,LABOR SERVICE FEE,Gross Buy-Out Labor wages (non-Lynx code only)
+530001,PETTY CASH NET PAY,Clearing account for Pay Adjustment Vouchers (PAV)
+560302,MISC. EMP BENEFITS,Miscellaneous benefits for restaurant department employees (C-7 Use Only)
+560504,HOLIDAY PAY MANAGEMENT,Wage dollars for Management Holiday Pay
+580108,PAYROLL MISC CASH AWARDS,Miscellaneous payroll employee awards
+582061,Workman's Comp Employee Premium,Workman's Comp Employee Premium (CORPORATE USE ONLY)
+582071,Workman's Comp Deductible Current Yr,Workman's Comp Deductible Current Yr (CORPORATE USE ONLY)
+582081,EPL Deductibles - Current Year,EPL Deductibles - Current Year (CORPORATE USE ONLY)
+601111,GRATIS FOOD,Revenue for lunch sales - specials / test meals (Micros entry)
+601111,GRATIS FOOD,"Cost of snack items given at no charge (fruit, candy, cookies, etc.)"
+602406,OUTSOURCED LAUNDRY,Cost of laundry for Food & Beverage
+606105,MENU PRINTING,"Cost of printing new menus, table tents, etc."
+610100,CHINA,Cost of china purchases including lost or damaged items
+610102,Silverware,Cost of silverware purchases including lost or damaged items
+610103,MISC SERVICE EQUIP,"Cost of equipment necessary in prep & serving of food (pots, pans, serving spoons)"
+610104,PAPER SUPPLIES,"Cost of paper supplies for F&B products (napkins, foil, cups, lids, sleeves and filters)"
+610105,LINEN,Cost of linen for F&B area
+610106,CLEANING SUPPLIES,Cost of supplies to keep F & B area clean (Ecolab)
+610108,MISCELLANEOUS OPERATING SUPPLIES,Cost of miscellaneous operating and guest supplies for restaurant
+610120,IN HOUSE AUDIO VISUAL SUPPLIES,"Cost of A/V Equipment or Supplies that do not meet CAPEX standards (microphones, tape for wires, flip-charts, etc.)"
+610136,CLEAN SUPPLIES DISH ROOM,Cost of cleaning supplies for restaurant
+610402,GLASSWARE,Cost of glassware purchases including lost or damaged items
+652403,RECRUITING - OTHER,Cost of recruitment expenses (CORPORATE USE ONLY)
+655601,TRAVEL OTHER,Miscellaneous travel related expenses
+656003,CASHIER OVER/SHORTAGES,Restaurant room charge discrepancies
+656003,CASHIER OVER/SHORTAGES,Restaurant room charge discrepancies
+656003,CASHIER OVER/SHORTAGES,Restaurant room charge discrepancies
+656003,CASHIER OVER/SHORTAGES,Restaurant room charge discrepancies
+656003,CASHIER OVER/SHORTAGES,Restaurant room charge discrepancies
+656003,CASHIER OVER/SHORTAGES,Restaurant room charge discrepancies
+656003,CASHIER OVER/SHORTAGES,Restaurant room charge discrepancies
+656003,CASHIER OVER/SHORTAGES,Restaurant room charge discrepancies
+656003,CASHIER OVER/SHORTAGES,Restaurant room charge discrepancies
+656003,CASHIER OVER/SHORTAGES,Restaurant room charge discrepancies
+656009,MICROS SYSTEM IMBALANCE,Out of balance caused by MICROS
+690001,GENERAL EXPENSE,Miscellaneous incidental expenses
+691005,PERMITS & LICENSES,"Cost of permit / license fees to operate (ie., liquor license, etc)"
+691022,MISC RESTAURANT TRANSFER,Room Charge Clearing Account
+706001,ROYALTY FEE EXPENSE,Cost of royalty fees for restaurant
+988009,WAGE DEPT 09,Wage hours for Attendant-Cafeteria
+988031,WAGE DEPT 31,Wage hours for Attendant-Gourmet Coffee
+988034,WAGE DEPT 34,Wage hours for Purchaser or Receiver
+988036,WAGE DEPT 36,Wage hours for OTHER HOURLY - CONTRACT LABOR
+988040,WAGE DEPT 40,Wage hours for Supervisor - Restaurant or Team Lead - Restaurant
+988040,WAGE DEPT 40,Wage hours for Supervisor-Food & Beverage
+988041,WAGE DEPT 41,Wage hours for Host / Hostess
+988043,WAGE DEPT 43,Wage hours Server
+988043,WAGE DEPT 43,Wage hours Lead Server
+988043,WAGE DEPT 43,"Wage hours Trainee - Server, Server - PM, or College Intern - Restaurant"
+988044,WAGE DEPT 44,Wage hours Attendant - Dining Room / Utility
+988044,WAGE DEPT 44,Wage hours Attendant - Bar
+988046,WAGE DEPT 46,Wage hours Server - Lounge
+988047,WAGE DEPT 47,Wage hours for Cook I
+988047,WAGE DEPT 47,"Wage hours for Supervisor - Kitchen, Cook - Lead, Cook II, or Cook - Prep"
+988049,WAGE DEPT 49,Wage hours for Dishwasher
+988049,WAGE DEPT 49,Wage hours for Dishwasher/Utility
+988050,WAGE DEPT 50,Wage hours Supervisor Bistro
+988053,WAGE DEPT 53,Wage hours Bistro Server Plus AM
+988054,WAGE DEPT 54,Wage hours Bistro Server Plus PM
+988056,WAGE DEPT 56,Wage hours for Bartender
+988056,WAGE DEPT 56,Wage hours for Bartender - Lead
+988072,WAGE DEPT 72,Wage hours for Aide-Banquets or Attendant-Operations
+988073,WAGE DEPT 73,Wage hours for Captain-Banquet
+988074,WAGE DEPT 74,Wage hours for Server-Banquets
+988074,WAGE DEPT 74,Wage hours for Server-Banquets-Lead
+988083,WAGE DEPT 83,Wage hours for Server-Room Service
+999997,CONTROL MANHRS,Wage hours offset (hours for outside service invoices coded here)
+510002,WAGE DEPT 02,Wage dollars for Telephone Operator - PBX
+510003,WAGE DEPT 03,Wage dollars
+510004,WAGE DEPT 04,Wage dollars
+510009,WAGE DEPT 09,Wage dollars
+510037,WAGE DEPT 37,Wage dollars
+510088,WAGE DEPT 88,Wage dollars
+510089,WAGE DEPT 89,Wage dollars
+510099,WAGE DEPT 99,Wage dollars
+510503,SERVICE CHARGE DISTRIBUTION,"Distribution of Manditory, Non-Discretionary Service Charges"
+511001,OVERTIME PREMIUM,Overtime dollars (non-Lynx code only)
+511001,OVERTIME PREMIUM,Overtime dollars
+520001,MGMT SALARIES,Wage dollars for Managers
+520201,BUYOUT LABOR,Clearing account for Buy-Out Labor (BOL)
+520202,LABOR SERVICE FEE,Gross Buy-Out Labor wages
+530001,PETTY CASH NET PAY,Clearing account for Pay Adjustment Vouchers (PAV) (Non-Lynx code only)
+560302,MISC. EMP BENEFITS,Miscellaneous benefits for phone department employees (C-7 Use Only) (Non-Lynx code only)
+560504,HOLIDAY PAY MANAGEMENT,Wage dollars for Management Holiday Pay
+569001,EMPLOYEE FOOD,Cost of complimentary meals approved by GM
+580108,PAYROLL MISC CASH AWARDS,Miscellaneous payroll employee awards
+582071,Workman's Comp Deductible Current Yr,Workman's Comp Deductible Current Yr (CORPORATE USE ONLY)
+582081,EPL Deductibles - Current Year,EPL Deductibles - Current Year (CORPORATE USE ONLY)
+601101,Comp Services and Gifts,Cost of hosting local functions for benefit of hotel
+601105,Entertainment In-House,Entertainment In-House
+602406,Outsourced Laundry,Cost of laundry
+606101,Printing and Stationery,Printing and Stationery
+610108,Operating Supplies,Cost of miscellaneous operating and guest supplies
+610112,Uniforms Costs,Cost of uniforms
+610150,Uniform Laundry,Uniform Laundry
+611001,Office Supplies,"Cost of printing, business cards and office stationary used by all departments"
+613101,Equipment Rentals,Equipment Rentals
+616104,Professional Fees,Cost of professional fees.
+616211,Contract Services,Cost of professional fees.
+617102,SW Misc Exp/Licenses,"Cost of computer maintenance, licenses and software"
+617105,Global Field Systems,Allocation for Global Field Services/IR System Clusters
+618001,LOCAL PHONE USAGE,"Cost of all other phone bill charges, typically equipment and maintenance related (Xeta and Nextira)"
+618001,LOCAL PHONE USAGE,Rebate on admin phone usage (debit)
+618001,Dept Phone Usage,Cost of telephone usage from admin extensions
+618003,Property Voice Internet,Property Voice Internet
+618004,Phone-Other,Phone-Other
+618005,Telecomm Support,Telecomm Support
+618006,Voice Mail Boxes,Voice Mail Boxes
+618007,Phone Extensions,Phone Extensions
+618010,LOCAL CALL COST,Rebate on Marriott Rewards guests local phone usage (credit)
+618010,Local Calls Cost,Local Calls Cost
+618011,LONG DISTANCE CALL COST,Rebate on long distance usage (credit)
+618011,Long Distance Calls Cost,Long Distance Calls Cost
+618012,Cost of Internet Services,Cost of Internet Services
+618108,Communications Other,Communications Other
+618115,INTERNET EXPENSE,Cost of high speed internet services provided free to the guest
+618118,Cell Phones-Pagers,Cost of all cell phone and pager usage for property benefit.
+618123,MI Connector,MI Connector
+618129,Virtual Private Network,Cost of VPN charges and cost of computer data lines for MCN (CORPORATE USE ONLY)
+630108,Micros Maintenance,Micros Maintenance
+631112,PMS System,Cost of PMS Support (CORPORATE USE ONLY)
+631170,Equipment Purchases,Equipment Purchases
+631203,Mc - Systems Contracts,Cost of Micros and IBM maintenance contracts
+631208,Cleaning Contract,Cleaning Contract
+652101,Internal Training,"Cost of business meetings, conferences, or employee training"
+652102,External Training,Cost of management conferences (brand cost and travel expenses) (CORPORATE USE Only)
+652119,BUSINESS MEETINGS,Cost of business meetings and Annual Management Conference
+652302,ASSOCIATE RELATIONS,Cost of associate relations programs and length of service awards.
+655601,Travel - Other,Miscellaneous travel related expenses
+655641,Travel - Meals,Travel related meals expense
+655655,Travel -Lodging,Travel related lodging expense
+655658,Travel -Air-Rail,Travel related airline/rail expense
+655701,Local Travel-Misc,Miscellaneous local travel related expenses
+655801,ENTERTAINMENT,Travel related entertainment of non-Marriott persons by hotel employees
+657021,TELECOM REBATE,TELECOM REBATE
+660102,Other Contr Transfers,Other Contr Transfers
+664440,CTAC System,Cost of CTAC service charges (CORPORATE USE ONLY)
+664501,Information Technology Support,Information Technology Support
+664503,Mainframe Edp,Mainframe Edp
+664511,Property IR,Property IR
+664513,Desktop Svcs & Supp,Desktop Svcs & Supp
+664517,Data Storage Usage,Data Storage Usage
+664520,Desktop Imaging[NALO CFRST Only],Desktop Imaging
+664522,Windows Unix Server Support,Windows Unix Server Support
+664523,Email,Email
+664525,Wireless Email,Wireless Email
+664527,Print Usage[NALO FS-CFRST Only],Print Usage
+664529,Trouble Tickets,Trouble Tickets
+664530,Simphony GPOS,Simphony GPOS
+664532,Marsha System - Property,Marsha System - Property
+664533,F-B System,F-B System
+664535,eFolio,Cost of emailing folios to guests
+664542,The Source System,The Source System
+664543,Data Storage System,Data Storage System
+664544,Computer System Install,Computer System Install
+664545,Property URL,Property URL
+664546,Team Share,Team Share
+664551,OSCAR System,Cost of Oscar system usage
+664554,Sfa System,Sfa System
+664555,Yield Management System,Yield Management System
+664556,HQ LOCAL PHONE USAGE,Cost of quarterly Shared Tech Maintenance (Corporate Use Only)
+664556,HQ Local Phone Usage[NALO CFRST Only],HQ Local Phone Usage
+664562,SW Exp/Maint,SW Exp/Maint
+664564,Full Svc Pc Help Desk Support,Full Svc Pc Help Desk Support
+664566,Pc Engineering And Software,Pc Engineering And Software
+664572,Consolidated Inv Operating Cos,Consolidated Inv Operating Cos
+664573,Total Yield Operating Costs,Total Yield Operating Costs
+664574,Consolidated Inv Development C,Consolidated Inv Development C
+664575,CI-TY Program Charge,CI-TY Program Charge
+664576,CI-TY System Charge,CI-TY System Charge
+664577,Total Yield Development Costs,Total Yield Development Costs
+664580,BPA Connector Fee,BPA Connector Fee
+664901,IN-HOUSE LAUNDRY,Cost of in-house laundry expenses.
+690001,Miscellaneous,Miscellaneous
+691001,MISCELLANEOUS,Miscellaneous Expense
+691003,Licenses - Fees,Licenses - Fees
+691005,PERMITS & LICENSES,Cost of permit / license fees to operate
+760599,Comp PR & Acctg Svc,Comp PR & Acctg Svc
+988002,WAGE DEPT 02,Wage hours
+988003,WAGE DEPT 03,Wage hours
+988004,WAGE DEPT 04,Wage hours
+988009,WAGE DEPT 09,Wage hours
+988037,WAGE DEPT 37,Wage hours
+988088,WAGE DEPT 88,Wage hours
+988089,WAGE DEPT 89,Wage hours
+988099,WAGE DEPT 99,Wage hours
+988202,BUYOUT LABOR M-H,Gross Buy-Out Labor hours
+999997,CONTROL MANHRS,Wage hours offset (hours for outside service invoices coded here)
+510003,WAGE DEPT 03,Wage dollars for Specialist-Human Resources or Supervisor-Human Resources
+510004,WAGE DEPT 04,"Wage dollars for Officer - Loss Prevention, Officer - Loss Prevention PM, or Team Lead - Loss Prevention"
+510005,WAGE DEPT 05,Wage dollars for Attendant-Health Club
+510005,WAGE DEPT 05,Wage dollars for Attendant-Pool
+510005,WAGE DEPT 05,Pool Attendant
+510006,WAGE DEPT 06,Wage dollars for Driver-Limousine/Van
+510009,WAGE DEPT 09,"Wage dollars for Coord-Property, Admin Assistant, or Admin Assistant-Senior"
+510032,WAGE DEPT 32,Wage dollars for SECURITY - CONTRACT LABOR (Labor invoices coded here)
+510034,WAGE DEPT 35,Wage dollars for VAN DRIVER - CONTRACT LABOR (Labor invoices coded here)
+510036,WAGE DEPT 36,Wage dollars for OTHER HOURLY - CONTRACT LABOR
+510038,WAGE DEPT 38,Wage dollars for Admin Assistant or Coord-Property
+510039,WAGE DEPT 39,Wage dollars for Officer-Loss Prevention PM or Officer-Loss Prevention
+510044,WAGE DEPT 44,Wage dollars for Supervisor-Accounting or Clerk-Accounting
+511001,OVERTIME PREMIUM,Overtime dollars for administrative department employees
+520001,MGMT SALARIES,Wage dollars for all managers except Sales Manager and Chief Engineer
+520201,BUYOUT LABOR,Clearing account for Buy-Out Labor (BOL)
+520202,LABOR SERVICE FEE,Gross Buy-Out Labor wages
+530001,PETTY CASH NET PAY,Clearing account for Pay Adjustment Vouchers (PAV)
+540201,EXECUTIVE BONUS,General Manager bonus dollars
+560302,MISC. EMP BENEFITS,Miscellaneous benefits for administrative department employees (C-7 Use Only)
+560504,HOLIDAY PAY MANAGEMENT,Wage dollars for Management Holiday Pay
+569001,EMPLOYEE FOOD,Cost of complimentary meals approved by GM
+580108,PAYROLL MISC CASH AWARDS,Miscellaneous payroll employee awards
+582061,Workman's Comp Employee Premium,Workman's Comp Employee Premium (CORPORATE USE ONLY)
+582071,Workman's Comp Deductible Current Yr,Workman's Comp Deductible Current Yr (CORPORATE USE ONLY)
+582081,EPL Deductibles - Current Year,EPL Deductibles - Current Year (CORPORATE USE ONLY)
+601114,COMP NIGHT VOUCHER ACT ISSUED,Complimentary Night Vouchers issued (Salt Lake City entry only)
+601115,COMP NIGHT VOUCHER ACT REDEEMED,Complimentary Night Vouchers redeemed (Salt Lake City entry only)
+603104,DONATIONS,Donations and charitable contributions by the property
+603201,HQ Customer Events Tradeshows,GM Conference Fees(Corp Use Only)
+610108,MISCELLANEOUS OPERATING SUPPLIES,P-Card default account
+610112,UNIFORMS,Cost of uniforms for all hotel employees
+611001,OFFICE SUPPLIES,Cost of copy machine usage (Revenue from guest copy sales coded here)
+611001,OFFICE SUPPLIES,Cost of office supplies used by all departments
+611001,OFFICE SUPPLIES,Cost of Paper and Toner Supplies for Lobby Computers
+611001,OFFICE SUPPLIES,Cost of badges and racks associated with Blue Cube
+611001,OFFICE SUPPLIES,"Cost of printing, business cards and office stationary used by all departments"
+611105,FIRST AID SUPPLIES,Cost of aid supplies
+611201,POSTAGE EXPENSE,"Cost of postage including postage meter fills, Airborne Express, FedEx, DHL & UPS (Revenue from stamp sales coded here)"
+613102,STORAGE RENTAL,Offsite storage rental space
+616101,OUTSIDE LEGAL,Allocation for energy fee legal reserves
+616103,AUDIT FEES,Cost of audit fees
+616104,PROF FEE MISC.,"Cost of professional fees. Also, expenses related to restaurant shopping services."
+616211,OUTSIDE LABOR SERVICES,Cost of non-routine service performed by outside vendor
+616211,OUTSIDE LABOR SERVICES,Cost of Paper Shredding
+618003,PROPERTY VOICE INTERNET,Cost of internet based phone service
+618120,MARRIOTT CONNECT,Cost of Marriott Connect
+618131,INTERNET DIAL,Cost of internet data lines for MCN (CORPORATE USE ONLY)
+632007,TRANSPORTATION,"Cost of van operating expenses (gas, maintenance, etc.)"
+651704,VEHICLE GAS - OIL,"Cost of gas, oil, and repairs for rental vehicles"
+651780,CAR ALLOWANCE,Cost of car allowance (CORPORATE USE ONLY)
+652101,INTERNAL TRAINING,"Cost of business meetings, conferences, employee training, training materials and supplies"
+652102,EXTERNAL TRAINING,Cost of management conferences (brand cost and travel expenses) (CORPORATE USE Only)
+652111,ASSOCIATE OPINION SURVEY,Cost of Associate Opinion Survey (CORPORATE USE ONLY)
+652119,BUSINESS MEETINGS,Cost of business meetings and Annual Management Conference
+652302,ASSOCIATE RELATIONS,"Cost of employee relations (flowers, awards, parties, etc.)"
+652302,ASSOCIATE RELATIONS,"Cost of employee relations (flowers, awards, parties, etc.)"
+652302,ASSOCIATE RELATIONS,Cost of hotel employee incentive programs
+652302,ASSOCIATE RELATIONS,Cost of Water in Break Room for Associates
+652302,ASSOCIATE RELATIONS,Cost of associate relations programs and length of service awards.
+652401,AGENCY FEE-RECRUITING,Recruitment fees for all departments
+652402,ADVERTISING-RECRUITING,Cost of recruitment expenses for all departments
+652403,RECRUITING - OTHER,Cost of recruitment expenses (CORPORATE USE ONLY)
+652501,PROFESSIONAL DUES,"Dues for professional membership (Chamber of Commerce, AAA, etc.)"
+652701,MOVING-GENERAL,Costs of relocation for managers
+652731,REC COST DRUG TESTING,Cost of associate drug testing
+652733,CREDIT REFERENCE CHECK,Cost of associate reference check
+655601,TRAVEL OTHER,Miscellaneous travel related expenses
+655641,DOM TRAVEL -MEALS,Travel related meals expense
+655655,DOM TRAVEL -LODGING,Travel related lodging expense
+655658,DOM TRAVEL -AIR/RAIL,Travel related airline/rail expense
+655701,LOCAL TRAVEL-MISC.,Miscellaneous local travel related expenses
+655801,ENTERTAINMENT,Travel related entertainment of non-Marriott persons by hotel employees
+656003,CASHIER OVER/SHORTAGES,Accounting adjustment
+656003,CASHIER OVER/SHORTAGES,Credit card discrepancies
+656003,CASHIER OVER/SHORTAGES,Credit card discrepancies
+656003,CASHIER OVER/SHORTAGES,Credit card discrepancies
+656003,CASHIER OVER/SHORTAGES,Credit card discrepancies
+656003,CASHIER OVER/SHORTAGES,Credit card discrepancies
+656003,CASHIER OVER/SHORTAGES,Cash/safe discrepancies
+656003,CASHIER OVER/SHORTAGES,Credit card discrepancies
+656009,PMS-POS SYSTEM IMBALANCE,Out of balances caused by PMS (CORPORATE USE ONLY)
+656015,CASUALTY INSURANCE,Casualty insurance cost (CORPORATE USE ONLY)
+656103,GUEST ACCIDENTS - AUTO,Guest/auto accidents (CORPORATE USE ONLY)
+656103,GUEST ACCIDENTS - AUTO,Guest/auto accidents (CORPORATE USE ONLY)
+656104,LOSSES & DAMAGES,Guest reimbursement for lost/damaged personal items while in hotel
+656110,EPL Deductibles,Deductibles for claims prior to current (CORPORATE USE ONLY)
+656302,ASSOCIATE SAFETY PROGRAM,"Safety program (safety shoes, safety posters, safety related expenses, etc.)"
+656305,LP MATERIAL,Cost of LP material (CORP USE ONLY)
+656916,AR PAYMENTS OUT OF BALANCE,Accounts Receivable discrepancies (Holding account until receivable is closed)
+656917,GIFT CERTIFICATE BAD DEBT,Bad debt for unreimbursed gift certificates
+656918,GUEST REFUND CLEARING ACCOUNT,Clearing account for guest refunds (guest refund checks coded here)
+657002,CREDIT CARD EXPENSE,Credit card expense not associated with processing credit cards
+657003,CREDIT CARD DISCOUNTS - AX,Credit card commission charged by American Express
+657005,CREDIT CARD DISCOUNTS - DINERS,Credit card commission charged by Diners/Carte Blanche
+657009,CREDIT & COLLECTION-MAST CHANGE,Credit card commission charged by Master Card/Visa/Discover
+657015,CREDIT & COLLECTION-OTHER,"Cost of Equifax , Discover, TeleCheck fees, M-Credit fees, and other miscellaneous credit card charges and collection expense"
+657021,VENDOR REBATES,Vendor rebates and Avendra annual rebates (CORPORATE USE ONLY)
+657340,MYHR SERVICES,Cost of MyHr Services (CORPORATE USE ONLY)
+658001,BAD DEBT EXPENSE,Uncollected debts - totals from write-offs and totals from Quarterly True-up
+658001,BAD DEBT EXPENSE,Immaterial amounts (debits less than $25) remaining on guest folios at checkout
+658106,CHARGEBACKS AX,Credit card chargebacks received from American Express
+658107,CHARGEBACKS DC,Credit card chargebacks received from Diners Club
+658108,CHARGEBACKS BC,"Credit card chargebacks received from Chase (Visa, MC, Discover)"
+664509,FREDERICK POSTAGE CHARGES,Cost of mailing Frederick reports
+664521,ONDEMAND REPORTS,Cost of OnDemand report creation
+664586,HRMS - MERCURY,Charges for utilization of new PeopleSoft Human Resources module (CORP USE ONLY)
+664590,PCARD REBATE,Pcard Rebate or signing bonus
+690001,GENERAL EXPENSE,Miscellaneous incidental expenses
+690001,GENERAL EXPENSE,Miscellaneous incidental expenses
+690001,GENERAL EXPENSE,Cost of OSHA fines
+690001,GENERAL EXPENSE,CAS Processing (A/P processing charges)
+691001,BANK SERVICE CHARGES,Monthly bank fees
+691002,ARM TRANSPORT FEE,Monthly armored car service (Brinks)
+691005,PERMITS & LICENSES,"Cost of permit / license fees to operate (ie, building permit, pool and spa, etc)"
+988003,WAGE DEPT 03,Wage hours for Specialist-Human Resources or Supervisor-Human Resources
+988004,WAGE DEPT 04,"Wage hours for Officer - Loss Prevention, Officer - Loss Prevention PM, or Team Lead - Loss Prevention"
+988005,WAGE DEPT 05,Wage hours for Attendant-Health Club
+988005,WAGE DEPT 05,Wage hours for Attendant-Pool
+988006,WAGE DEPT 06,Wage hours for Driver-Limousine/Van
+988009,WAGE DEPT 09,"Wage hours for Coord-Property, Admin Assistant, or Admin Assistant-Senior"
+988032,WAGE DEPT 32,Wage hours for SECURITY - CONTRACT LABOR (Labor invoices coded here)
+988034,WAGE DEPT 34,Wage hours for VAN DRIVER - CONTRACT LABOR (Labor invoices coded here)
+988036,WAGE DEPT 36,Wage hours for OTHER HOURLY - CONTRACT LABOR
+988038,WAGE DEPT 38,Wage hours for Admin Assistant or Coord-Property
+988039,WAGE DEPT 39,Wage hours for Officer-Loss Prevention PM or Officer-Loss Prevention
+988044,WAGE DEPT 44,Wage hours for Supervisor-Accounting or Clerk-Accounting
+999997,CONTROL MANHRS,Wage hours offset (hours for outside service invoices coded here)
+635101,ELECTRICITY,Cost of electricity to run hotel
+635103,GAS,Cost of gas to run hotel
+635201,WATER,Cost of water to run hotel
+635203,SEWER,Cost of sewer to run hotel
+690001,GENERAL EXPENSE,Miscellaneous incidental expenses
+510002,WAGE DEPT 02,"Wage dollars for Supervisor-Engineering, Maintenance Technician III, or Maintenance - Senior"
+510002,WAGE DEPT 02,"Wage dollars for Engineer-I-Building, Engineer-II-Building, or Engineer-III-Building"
+510002,WAGE DEPT 02,Wage dollars for Maintenance-Chief
+510003,WAGE DEPT 03,"Wage dollars for Maintenance Helper, Maintenance Technician I, Maintenance Technician II, or Maintenance-MakeReady Team"
+510003,WAGE DEPT 03,Wage dollars for Maintenance-Technician I
+510036,WAGE DEPT 36,Wage dollars for OTHER HOURLY - CONTRACT LABOR
+511001,OVERTIME PREMIUM,Overtime dollars for engineering department employees
+520001,MGMT SALARIES,Wage dollars Chief Engineer
+520201,BUYOUT LABOR,Clearing account for Buy-Out Labor (BOL)
+520202,LABOR SERVICE FEE,Gross Buy-Out Labor wages
+530001,PETTY CASH NET PAY,Clearing account for Pay Adjustment Vouchers (PAV)
+540201,EXECUTIVE BONUS,Quarterly bonus dollars for hourly associates
+560302,MISC. EMP BENEFITS,Miscellaneous benefits for engineering department employees
+560504,HOLIDAY PAY MANAGEMENT,Wage dollars for Management Holiday Pay
+580108,PAYROLL MISC CASH AWARDS,Miscellaneous payroll employee awards
+582061,Workman's Comp Employee Premium,Workman's Comp Employee Premium (CORPORATE USE ONLY)
+582071,Workman's Comp Deductible Current Yr,Workman's Comp Deductible Current Yr (CORPORATE USE ONLY)
+582081,EPL Deductibles - Current Year,EPL Deductibles - Current Year (CORPORATE USE ONLY)
+610109,ELECTRIC SUPPLIES,Cost of electrical supplies
+610110,POOL SUPPLIES,Cost of pool supplies
+610111,MAINTENANCE SUPPLIES,Cost of Maintenance Supplies
+630003,PLUMBING,Cost of Plumbing repairs & maintenance (including similar items for water softening equipment)
+630010,POOL MAINTENANCE CONTRACT,"Cost of pool maintenance, contract, and supplies"
+630013,CLUSTER ENGINEERING,Allocations for Cluster Engineering
+630019,KITCHEN EQUIP REPAIR,Cost of Kitchen Equipment Repair
+630103,TOOLS,Cost of Misc Maintenance Tools
+630401,TRASH REMOVAL,"Cost of Trash Removal, Recycling, Mail-in Recycling, and related contracts"
+631102,MC - AC/CHILLERS,"Cost of Heating, AC Equipment, and related maintenance contracts"
+631103,MC - ELEVATORS,"Cost of Elevator maintenance contracts. (ie, Otis, Schindler, Kone, Thyssen Krupp, etc)"
+631124,MC- PEST CONTROL,Cost of Pest Control and related maintenance contracts (Ecolab)
+631206,MC - OTHER MAINTENANCE CONTRACTS,Cost of other Misc. Contracted monthly maintenance not included in any other R&M Contract Account
+632101,BUILDING REPAIR,Cost of repairs-general building - guest room damage
+632101,BUILDING REPAIR,"Cost of repairs-general building (paint, screws, salt, etc.)"
+632104,PAINT DECORATING,Cost of Paint and Decorating Supplies
+632106,CLUSTER ENG MATERIAL COST,Cost of engineering supllies and materials purchased by the cluster engineering shared service unit (Cluster Use Only)
+632301,FIRE PREVENTION SYSTEMS,"Cost of Fire Protection System maintenance contracts (ie, Simplex, ADT, etc.)"
+632401,ELEC MECHANICAL,Cost of Electrical Contract Only (No Supplies)
+632602,GEN BUILD GUEST ROOMS,Cost of Replacement Items for Guest Rooms
+634101,PLANTS MAINTENANCE,Cost of Courtyard Go Board
+634101,PLANTS MAINTENANCE,"Cost of plants, decorations, and upkeep of gatehouse/meeting room"
+634101,PLANTS MAINTENANCE,"Cost of plants, decorations, and upkeep of lobby (Muzak Phone and Lobby Music)"
+634105,GROUNDS & MAINTENANCE,Cost of maintenance grounds supplies contracts (landscape)
+651704,VEHICLE GAS - OIL,"Cost of gas, oil, and repairs for rental vehicles"
+651811,VEHICLE REPAIR EXPENSE,Cost of property owned vehicle repairs
+652403,RECRUITING - OTHER,Cost of recruitment expenses (CORPORATE USE ONLY)
+655601,TRAVEL OTHER,Miscellaneous travel related expenses
+655641,DOM TRAVEL -MEALS,Travel related meals expense
+655655,DOM TRAVEL -LODGING,Travel related lodging expense
+655658,DOM TRAVEL -AIR/RAIL,Travel related airline/rail expense
+655666,MARREXPRESS SUSPENSE CLEARING,MARREXPRESS (CORPORATE USE ONLY)
+691005,PERMITS & LICENSES,"Cost of permit / license fees to operate (ie, fire inspection, elevator, etc.)"
+988002,WAGE DEPT 02,"Wage hours for Supervisor-Engineering, Maintenance Technician III, or Maintenance - Senior"
+988002,WAGE DEPT 02,"Wage hours for Engineer-I-Building, Engineer-II-Building, or Engineer-III-Building"
+988002,WAGE DEPT 02,Wage hours for Maintenance-Chief
+988003,WAGE DEPT 03,"Wage hours for Maintenance Helper, Maintenance Technician I, Maintenance Technician II, or Maintenance-MakeReady Team"
+988003,WAGE DEPT 03,Wage hours for Maintenance-Technician I
+988036,WAGE DEPT 36,Wage hours for OTHER HOURLY - CONTRACT LABOR
+988054,WAGE DEPT 54,Wage hours for GROUNDSKEEPER
+988202,BUYOUT LABOR M-H,Gross Buy-Out Labor hours
+999997,CONTROL MANHRS,Wage hours offset (hours for outside service invoices coded here)
+510009,WAGE DEPT 09,Wage dollars for Admin Assistant
+510031,WAGE DEPT 31,Wage dollars for Sales Coordinator
+510031,WAGE DEPT 31,Wage dollars for Sales cordinatge Intern - college Intern - SM
+510036,WAGE DEPT 36,Wage dollars for OTHER HOURLY - CONTRACT LABOR
+510064,WAGE DEPT 64,Wage dollars for Sales Coordinator or Admin Assistant
+510064,WAGE DEPT 64,Wage dollars for College Intern - SM
+511001,OVERTIME PREMIUM,Overtime dollars for sales department employees
+520001,MGMT SALARIES,Wage dollars for Sales Manager
+520201,BUYOUT LABOR,Clearing account for Buy-Out Labor (BOL)
+520202,LABOR SERVICE FEE,Gross Buy-Out Labor wages
+530001,PETTY CASH NET PAY,Clearing account for Pay Adjustment Vouchers (PAV)
+540201,EXECUTIVE BONUS,Director of Sales/Sales Manager bonus dollars
+560302,MISC. EMP BENEFITS,Miscellaneous benefits for sales department employees (C-7 use only)
+560504,HOLIDAY PAY MANAGEMENT,Wage dollars for Management Holiday Pay
+580108,PAYROLL MISC CASH AWARDS,Miscellaneous payroll employee awards
+582061,Workman's Comp Employee Premium,Workman's Comp Employee Premium (CORPORATE USE ONLY)
+582071,Workman's Comp Deductible Current Yr,Workman's Comp Deductible Current Yr (CORPORATE USE ONLY)
+582081,EPL Deductibles - Current Year,EPL Deductibles - Current Year (CORPORATE USE ONLY)
+600108,TRADE SHOWS,Cost of trade show (CY & RI)
+600109,EVENT BOOKINGS,Cost of Event Booking Center (EBC) charges
+600109,EVENT BOOKINGS,State charge for Travel Awareness (RI)
+600200,TELEMARKETING,Cost of telemarketing
+600201,REFERRAL COST,Cost of Shared Services referrals
+600203,CLUSTER GROUP LEADS,Cost of Omaha group reservation bookings
+600205,AREA SALES SFO,Allocations for SFO Area Sales (Corporate Use Only)
+600206,LEAD REFERRAL,Cost of Lead Referrals
+600208,SALES LEADERSHIP ALLOCATION,Shared services allocation
+600209,GROUP SALES ALLOCATION,Market group sales allocation
+600210,GROUP SALES BOOKING FEE,Market group sales booking fee
+600212,MARKETING COMMUNICATIONS ADMIN,Allocation for Marketing & eCommerce Shared Services Admin Costs (Corporate Use Only)
+600702,HQ PROMOTIONS,Promotions Cost (Corporate Use Only)
+601101,HOSPITALITY,Cost of Guest Relations
+601101,HOSPITALITY,Cost of hosting local functions for benefit of hotel
+602101,MARRIOTT REWARDS,Cost for Marriott Rewards Redemptions (CORPORATE USE ONLY)
+602103,MARRIOTT REWARDS ACCRUAL,Marriott Rewards Accrual
+602352,MARRIOTT REWARDS - MEETINGS,Cost of Marriott Rewards points given for meeting use (CORPORATE USE ONLY)
+602408,PROMOTIONS,Cost of local marketing promotions to increase sales & awareness. Amex open promotional charges.
+606219,PHOTOGRAPHIC SERVICES,"Cost of CYRB Lobby, RI Gatehouse and other public space photography updates on marriott.com"
+607111,HQ WEBSITE ECOMMERCE REQUEST,Cost of eCommerce Requests (Corporate Use Only)
+608204,SHOPPING CALL SERVICE,Cost of shopper call service
+611201,POSTAGE EXPENSE,Cost of postage
+652101,INTERNAL TRAINING,"Cost of business meetings, conferences, or employee training"
+652102,EXTERNAL TRAINING,Cost of management conferences (brand cost and travel expenses) (CORPORATE USE Only)
+652316,HQ GOLDEN CIRCLE,Cost of Golden Circle (Corporate Use Only)
+652403,RECRUITING - OTHER,Cost of recruitment expenses (CORPORATE USE ONLY)
+652501,PROFESSIONAL DUES,"Dues for professional membership (Chamber of Commerce, AAA, etc.) and subscriptions & books"
+655601,TRAVEL OTHER,Miscellaneous travel related expenses
+655641,DOM TRAVEL -MEALS,Travel related meals expense
+655655,DOM TRAVEL -LODGING,Travel related lodging expense
+655658,DOM TRAVEL -AIR/RAIL,Travel related airline/rail expense
+655701,LOCAL TRAVEL-MISC.,Miscellaneous local travel related expenses
+655801,ENTERTAINMENT,Travel related entertainment of non-Marriott persons by hotel employees
+690001,GENERAL EXPENSE,Miscellaneous incidental expenses
+695107,HQ Sales Force One,Implementation and Launch costs for SFO. As well as market re-organization (Corporate Use Only)
+761001,ADV ALLOC,Allocations for marketing funds (National & Area)
+790001,BROCHURES,Cost of brochures
+794001,BUS PROP MEDIA,Cost of Media Advertising including signage
+794004,BUS REG ALLOC MEDIA,Marketing & Communication Projects Allocations (Corporate Use Only)
+794101,GRP PROP MEDIA,Marketing & Communication Projects Allocations (Corporate Use Only)
+794104,GRP REG ALLOC MEDIA,Marketing & Communication Projects Allocations (Corporate Use Only)
+794201,LEIS PROPMEDIA,"Cost of Miscellaneous Advertising Including Ad Agency Fees, online directories, phone boards, AAA contracts, etc."
+794201,LEIS PROPMEDIA,Cost of Market Research
+794201,LEIS PROPMEDIA,Cost of TV Broadcast Media
+794204,LEISURE - REGIONAL ALLOCATION,Advertising related allocations. Programs managed by Wendy's e-commerce team (excluding photography)
+796206,MISCELLANEOUS PROMOTIONS,"Miscellaneous Corporate Promotions. Direct hotel charges from Preston, Kristine and other Corp HQ departments related to Visa, Target, Amazonas and other national programs (CORPORATE USE ONLY)"
+988009,WAGE DEPT 09,Wage hours for Admin Assistant
+988031,WAGE DEPT 31,Wage hours for Sales Coordinator
+988031,WAGE DEPT 31,Wage hours for College Intern - SM
+988036,WAGE DEPT 36,Wage hours for OTHER HOURLY - CONTRACT LABOR
+988064,WAGE DEPT 64,Wage hours for Sales Coordinator or Admin Assistant
+988064,WAGE DEPT 64,Wage hours for College Intern - SM
+999997,CONTROL MANHRS,Wage hours offset (hours for outside service invoices coded here)
+701015,SYSTEM FEE EXPENSE,System fee (CORPORATE USE ONLY)
+701025,EQUIP LEASE EXP,Equipment lease expense (LSDI rollout) (CORPORATE USE ONLY)
+701110,FF&E ESCROW EXPENSE,"Periodic furniture, fixtures & equipment expenses (CORPORATE USE ONLY) (CY & TPS & SHS)"
+701120,BASE MANAGEMENT FEE,Base management fee (CORPORATE USE ONLY)
+701130,OTHER DEDUCTIONS TO NHP,Cost of other deductions to HHP - up to $25K deductible for insurance (CORPORATE USE ONLY)
+701132,COMMON AREA CHGS,Cost of common area fees
+701133,LOAN REPAYMENT - PRINCIPAL,CAPEX loan principal payments
+701136,LOAN REPAYMENT - INTEREST,CAPEX loan interest payments
+706101,Royality-Pizza Hut,Account for Pizza Hut Royalities
+720601,PERSONAL PROPERTY TAX,Cost of personal property tax assessment (CORPORATE USE ONLY)
+720701,REAL ESTATE TAX,Cost of real estate tax assessment (CORPORATE USE ONLY)
+720906,OVER/UNDER SALES TAX,Charge for over/under accrued sales tax (CORPORATE USE ONLY)
+730001,INSURANCE PREMIUM,Cost of insurance premium (CORPORATE USE ONLY)
+730002,BUILDING FIRE INSURANCE,Cost of building fire insurance (CORPORATE USE ONLY)
+730107,UNINSURED LOSSES,Cost of claims related Operating Costs that do not meet CAPEX criteria
+730161,General Liability Premium,General Liability Premium (CORPORATE USE ONLY)
+730171,General Liability Current Year Deductible,General Liability Current Year Deductible
+730172,General Liability Retro Year Deductible,General Liability Retro Year Deductible
+740002,LEASE EXPENSE,"Cost of lease of any major items (lease payments for copier, fax machine, non-capital van lease, postage meter)"
+760656,CONSULTING FEES,Cost of consulting and audit fees.
+769001,PRIOR YR ADJUSTMENT,Approved prior year adjustment (CORPORATE USE ONLY)
+769002,SALES TAX PRIOR YR ADJUSTMENT,Approved prior year adjustment (CORPORATE USE ONLY)
+769003,PROP TAX PRIOR YR ADJUSTMENT,Approved prior year adjustment (CORPORATE USE ONLY)
+769008,REAL ESTATE TAX PRIOR YR ADJUSTMENT,Approved prior year adjustment (CORPORATE USE ONLY)
+770101,ADMIN EXPENSES,Approved administrative expense allocation (CORPORATE USE ONLY)
+700304,Net To Owner,Net To Owner
+700323,Rent Expense R-E - P-P Taxes,Rent Expense R-E - P-P Taxes
+700338,Base Fee2 After Nhp,Base Fee2 After Nhp
+700341,Other Owner Expense,Other Owner Expense
+700342,Fixed Rent Exp,Fixed Rent Exp
+700480,Land Min Rent Exp 700480,Land Min Rent Exp 700480
+700481,Land Percentage Rent Exp,Land Percentage Rent Exp
+701124,Prior Year IMF Adjustment,Prior Year IMF Adjustment
+701125,Incentive Fee Expense,Incentive Fee Expense
+709065,Owned Leased Net Down,Owned Leased Net Down
+948001,Owners Priority,Owners Priority
+948008,Capex Loan Repayment - 1999,Capex Loan Repayment - 1999
+948009,Capex Loan Repayment - 2003,Capex Loan Repayment - 2003
+948010,Capex Loan Repayment - 2004,Capex Loan Repayment - 2004
+948011,Capex Loan Repayment - 2005,Capex Loan Repayment - 2005
+948017,Owners Second Priority,Owners Second Priority
